@@ -1,0 +1,3 @@
+type_id;type_name;packaging;min_weight;max_weight;min_length;min_width;min_height;max_length;max_width;max_height
+12;Письмо авиа;Конверт;0.01;0.5;10;5;0.1;30;20;3
+13;Маленькая посылка;Коробка;0.1;5;10;10;5;50;40;30
